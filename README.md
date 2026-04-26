@@ -2,6 +2,13 @@
 
 A single-file Python GUI application for **encrypted file storage and transfer** using military-grade cryptography — built with `tkinter` + `cryptography`.
 
+<div align="center">
+  <img src="assets/demo.png" alt="SUCCESS Demo" width="900">
+  <p align="center">
+    <b>Figure: Demo </b>
+  </p>
+</div>
+
 ---
 
 ## ✨ Features
